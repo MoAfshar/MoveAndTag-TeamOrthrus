@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Abstract}{2}
+\contentsline {section}{\numberline {2}Context}{3}
+\contentsline {subsection}{\numberline {2.1}Background}{3}
+\contentsline {subsection}{\numberline {2.2}Purpose}{3}
+\contentsline {subsubsection}{\numberline {2.2.1}whatever1}{3}
+\contentsline {subsubsection}{\numberline {2.2.2}whatever2}{3}
+\contentsline {subsubsection}{\numberline {2.2.3}whatever3}{3}
+\contentsline {section}{\numberline {3}Team Member Summary}{4}
+\contentsline {subsection}{\numberline {3.1}Mohammad Hossein Afsharmoqaddam}{4}
+\contentsline {subsection}{\numberline {3.2}Jas Semrl}{4}
+\contentsline {subsection}{\numberline {3.3}Marc de Fontenay}{4}
+\contentsline {section}{\numberline {4}Work Plan (GANTT CHART)}{5}
